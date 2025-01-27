@@ -30,7 +30,6 @@ namespace WpfApp1
                 _context = new Entities();
             }
             return _context;
-
         }
         
     
